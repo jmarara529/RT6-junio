@@ -1,0 +1,3 @@
+pares:1 impares:2
+pares:4 impares:2
+FIN
